@@ -1,3 +1,7 @@
+# !/usr/bin/python3
+# ebook python network programming cookbook
+# membuat chatroom menggunakan socket dan select
+
 import socket
 import select
 import argparse
